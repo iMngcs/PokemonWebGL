@@ -1,0 +1,12 @@
+<types>
+<type code="Gr">Grass</type>
+<type code="Fi">Fire</type>
+<type code="Wa">Water</type>
+<type code="Li">Lightning</type>
+<type code="Ps">Psychic</type>
+<type code="Fg">Fighting</type>
+<type code="Da">Dark</type>
+<type code="Me">Metal</type>
+<type code="Co">Colorless</type>
+<type code="Dr">Dragon</type>
+</types>
